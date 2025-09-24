@@ -25,7 +25,7 @@ The main focus is on applying and evaluating different clustering algorithms, in
 - Visual insights into how the data is grouped in lower-dimensional space.
 
 ## How to Run
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
